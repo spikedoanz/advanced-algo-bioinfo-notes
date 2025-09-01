@@ -13,9 +13,9 @@ Let x be the number of tosses required to see two heads in a row, or HH.
 Let p be the probability of seeing a head in a given toss. Vice versa for q.
 Since this is an unbiased coin, we know that p == q == 0.5.
 
-Waiting time problems can be solved by defining a set of recursive formulas
-conditioned on 'themselves'. In the case of HH, we can define these recursive
-relationships by looking at **what happens with the first toss**:
+Absorbing markov chain problems can be solved by defining a set of recursive
+formulas conditioned on 'themselves'. In the case of HH, we can define these
+recursive relationships by looking at **what happens with the first toss**:
 
 1. H -> We've made progress! Now we need one more H
 2. T -> No progress, we need to start over
