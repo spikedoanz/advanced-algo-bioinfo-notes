@@ -64,10 +64,9 @@ aa: (50 - 28.125)^2/28.125 = 17.01
 
 χ^2 = 6.13 + 20.41 + 17.01 = 43.55
 
-with df = 1 (3 genotypes - 1 - 1 for estimating p), the critical value at α =
-0.05 is 3.84.
+with df = 1, the critical value at α = 0.05 is 3.84.
 
-since 43.55 >> 3.84, we strongly reject the hypothesis that the population is
-in HWE. the heterozygote deficiency (50 observed vs 93.75 expected) suggests
-inbreeding, population substructure, or some other violation of HWE
-assumptions.
+=> since 43.55 >> 3.84, we strongly __reject__ the hypothesis that the
+population is in HWE. the heterozygote deficiency (50 observed vs 93.75
+expected) suggests inbreeding, population substructure, or some other violation
+of HWE assumptions.
