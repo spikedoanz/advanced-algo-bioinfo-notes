@@ -20,6 +20,12 @@
 > order to obtain the optimal solution?
 
 --------------------------------------------------------------------------------
+
+note: i missed the previous lecture so i used an llm to explain clark's algorithm
+to me. i now know it's a constraint satisfaction algorithm for resolving
+what are essentially superpositions of strings. (which is essentially what
+the haplotypes encode for)
+
 # problem 1
 
 we first check the heterozygote count of each genotype:
