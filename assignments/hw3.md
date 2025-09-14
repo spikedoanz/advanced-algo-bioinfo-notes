@@ -21,10 +21,11 @@
 
 --------------------------------------------------------------------------------
 
-note: i missed the previous lecture so i used an llm to explain clark's algorithm
-to me. i now know it's a constraint satisfaction algorithm for resolving
-what are essentially superpositions of strings. (which is essentially what
-the haplotypes encode for)
+note: i missed the previous lecture so i used an llm (claude opus 4)to explain
+clark's algorithm to me. i now know it's a constraint satisfaction algorithm
+for resolving what are essentially superpositions of strings. (which is
+essentially what the haplotypes encode for). the sources that came up
+when i googled 'clark's algorithm bioinfomatics' weren't really helpful.
 
 # problem 1
 
